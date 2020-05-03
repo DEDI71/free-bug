@@ -756,8 +756,8 @@ a {
 }
 .cid-rXSnyXQ71L {
   padding-top: 15px;
-  padding-bottom: 75px;
-  background-color: #000000;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-rXSnyXQ71L .card-box {
   z-index: 10;
@@ -824,7 +824,7 @@ a {
   transform: translateY(-100%);
 }
 .cid-rXSnyXQ71L .card1 {
-  background-image: url("../../../assets/images/x1080-1920x1080.jpg");
+  background-image: url("../../../assets/images/cartier-eyewear-cohens-fashion-optical-asset-2-1349x1113.jpeg");
   z-index: 4;
   transform: rotateY(15deg);
 }
@@ -861,6 +861,115 @@ a {
 }
 .cid-rXSnyXQ71L .mbr-section-subtitle,
 .cid-rXSnyXQ71L .title-align {
+  color: #000000;
+}
+.cid-rXVWkZnrz7 {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+.cid-rXVWkZnrz7 .card-box {
+  z-index: 10;
+  position: relative;
+}
+.cid-rXVWkZnrz7 .container-fluid {
+  padding: 0;
+}
+.cid-rXVWkZnrz7 h5 {
+  margin: 0;
+}
+.cid-rXVWkZnrz7 h3 {
+  width: fit-content;
+  display: inline-block;
+  position: relative;
+}
+.cid-rXVWkZnrz7 h3:before {
+  position: absolute;
+  content: '';
+  left: 50%;
+  top: -120px;
+  bottom: 0;
+  width: 1px;
+  height: 100px;
+  background: currentColor;
+}
+.cid-rXVWkZnrz7 .card {
+  margin: auto;
+  min-height: 350px;
+  perspective: 800px;
+  cursor: pointer;
+}
+.cid-rXVWkZnrz7 .card:hover {
+  z-index: 99;
+}
+.cid-rXVWkZnrz7 .card-wrapper {
+  background-position: center;
+  padding: 1rem 1rem;
+  background-size: cover;
+  transition: all 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  transform-origin: top;
+  position: relative;
+  overflow: hidden;
+}
+.cid-rXVWkZnrz7 .card-wrapper:hover {
+  transform: rotateX(20deg);
+}
+.cid-rXVWkZnrz7 .card-wrapper:hover:before {
+  transform: translateY(-10%);
+  opacity: 1;
+}
+.cid-rXVWkZnrz7 .card-wrapper:before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(190deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 90%);
+  clip-path: polygon(0 0, 100% 0, 100% 25%, 0 75%);
+  opacity: 0;
+  position: absolute;
+  transition: all 0.3s;
+  transform: translateY(-100%);
+}
+.cid-rXVWkZnrz7 .card1 {
+  background-image: url("../../../assets/images/site-cover-1-2-2000x1100.jpg");
+  z-index: 4;
+  transform: rotateY(15deg);
+}
+.cid-rXVWkZnrz7 .card2 {
+  background-image: url("../../../assets/images/x1080-1920x1080.jpg");
+  z-index: 3;
+}
+.cid-rXVWkZnrz7 .card3 {
+  background-image: url("../../../assets/images/captura-de-ecra-2020-05-03-as-14.53.30-1510x1150.png");
+  z-index: 2;
+  transform: rotateY(-15deg);
+}
+.cid-rXVWkZnrz7 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rXVWkZnrz7 .btn {
+  margin: 0!important;
+  padding: 1rem 2rem;
+}
+@media (max-width: 767px) {
+  .cid-rXVWkZnrz7 .card-box {
+    text-align: center;
+  }
+}
+.cid-rXVWkZnrz7 .mbr-text {
+  color: #cccccc;
+}
+.cid-rXVWkZnrz7 .card-date {
+  color: #cccccc;
+}
+.cid-rXVWkZnrz7 H1 {
+  color: #000000;
+}
+.cid-rXVWkZnrz7 .mbr-section-subtitle,
+.cid-rXVWkZnrz7 .title-align {
   color: #000000;
 }
 .cid-rJ1R5Ynqhz {
