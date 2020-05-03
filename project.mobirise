@@ -46,7 +46,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 26,
+    "uniqCompNum": 28,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -756,13 +756,13 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "sound": "https://soundcloud.com/mobirise/blue-skies",
+            "sound": "https://soundcloud.com/yourparadis/sets/jazz-hip-6",
             "autoplay": true,
             "fullWidth": true,
             "bgColor": "#000000"
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F661934673&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F661934673",
           "alias": "soundcloud",
           "_tags": [
             "Extension"
