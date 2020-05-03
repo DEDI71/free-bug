@@ -54,7 +54,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "http://opticarenatoazevedo.pt",
     "sitemapSwitcherAuto": "on",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/captura-de-ecra-2020-03-06-as-16.40.15-128x67.png",
     "cookiesAlert": false,
     "gdpr": false
   },
