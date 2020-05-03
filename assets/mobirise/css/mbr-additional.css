@@ -1196,6 +1196,10 @@ a {
 .cid-rXSYBY8src H2 {
   color: #ffffff;
 }
+.cid-rXSYBY8src .location,
+.cid-rXSYBY8src .icon-wrap {
+  text-align: right;
+}
 .cid-rJ1R3GBSjq {
   padding-top: 0px;
   padding-bottom: 0px;
