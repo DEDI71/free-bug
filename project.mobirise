@@ -79,8 +79,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "index",
+        "meta_descr": "Oculista,serviços técnicos óptica, optometria, teste à visão, saúde ocular",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
