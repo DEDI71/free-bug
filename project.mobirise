@@ -50,7 +50,7 @@
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "sitemapSwitcher": true,
     "siteUrl": "http://opticarenatoazevedo.pt",
     "sitemapSwitcherAuto": "on",
