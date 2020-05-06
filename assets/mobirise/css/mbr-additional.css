@@ -715,16 +715,16 @@ a {
   transform: translateY(-100%);
 }
 .cid-rJ1R1YSbzF .card1 {
-  background-image: url("../../../assets/images/byblos-spring-summer-2019-campaign01-800x1000.jpg");
+  background-image: url("../../../assets/images/byblos-spring-summer-2019-campaign01-1-800x1000.jpeg");
   z-index: 4;
   transform: rotateY(15deg);
 }
 .cid-rJ1R1YSbzF .card2 {
-  background-image: url("../../../assets/images/balmain-spring-summer-2016-eyewear-campaign2-1-800x800.jpeg");
+  background-image: url("../../../assets/images/balmain-spring-summer-2016-eyewear-campaign2-3-800x800.jpeg");
   z-index: 3;
 }
 .cid-rJ1R1YSbzF .card3 {
-  background-image: url("../../../assets/images/tag-2012-autosunvintage-large-576x768.jpg");
+  background-image: url("../../../assets/images/tag-2012-autosunvintage-large-1-576x768.jpeg");
   z-index: 2;
   transform: rotateY(-15deg);
 }
@@ -933,7 +933,7 @@ a {
   transform: translateY(-100%);
 }
 .cid-rXVWkZnrz7 .card1 {
-  background-image: url("../../../assets/images/site-cover-1-2-2000x1100.jpg");
+  background-image: url("../../../assets/images/fred-sunglasses-e1555062595779-850x1034.jpeg");
   z-index: 4;
   transform: rotateY(15deg);
 }
@@ -2398,6 +2398,108 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-rYex0McP0m {
+  padding-top: 180px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-rYex0McP0m .card-box {
+  z-index: 10;
+  position: relative;
+}
+.cid-rYex0McP0m .container-fluid {
+  padding: 0;
+}
+.cid-rYex0McP0m h5 {
+  margin: 0;
+}
+.cid-rYex0McP0m h3 {
+  width: fit-content;
+  display: inline-block;
+  position: relative;
+}
+.cid-rYex0McP0m h3:before {
+  position: absolute;
+  content: '';
+  left: 50%;
+  top: -120px;
+  bottom: 0;
+  width: 1px;
+  height: 100px;
+  background: currentColor;
+}
+.cid-rYex0McP0m .card {
+  margin: auto;
+  min-height: 350px;
+  perspective: 800px;
+  cursor: pointer;
+}
+.cid-rYex0McP0m .card:hover {
+  z-index: 99;
+}
+.cid-rYex0McP0m .card-wrapper {
+  background-position: center;
+  padding: 1rem 1rem;
+  background-size: cover;
+  transition: all 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  transform-origin: top;
+  position: relative;
+  overflow: hidden;
+}
+.cid-rYex0McP0m .card-wrapper:hover {
+  transform: rotateX(20deg);
+}
+.cid-rYex0McP0m .card-wrapper:hover:before {
+  transform: translateY(-10%);
+  opacity: 1;
+}
+.cid-rYex0McP0m .card-wrapper:before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(190deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 90%);
+  clip-path: polygon(0 0, 100% 0, 100% 25%, 0 75%);
+  opacity: 0;
+  position: absolute;
+  transition: all 0.3s;
+  transform: translateY(-100%);
+}
+.cid-rYex0McP0m .card1 {
+  background-image: url("../../../assets/images/01.jpg");
+  z-index: 4;
+  transform: rotateY(15deg);
+}
+.cid-rYex0McP0m .card2 {
+  background-image: url("../../../assets/images/background1.jpg");
+  z-index: 3;
+}
+.cid-rYex0McP0m .card3 {
+  background-image: url("../../../assets/images/03.jpg");
+  z-index: 2;
+  transform: rotateY(-15deg);
+}
+.cid-rYex0McP0m h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rYex0McP0m .btn {
+  margin: 0!important;
+  padding: 1rem 2rem;
+}
+@media (max-width: 767px) {
+  .cid-rYex0McP0m .card-box {
+    text-align: center;
+  }
+}
+.cid-rYex0McP0m .mbr-text {
+  color: #cccccc;
+}
+.cid-rYex0McP0m .card-date {
+  color: #cccccc;
 }
 .cid-rY4din0F7B {
   padding-top: 210px;
