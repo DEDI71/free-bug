@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -82,7 +82,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": " <style>\nsection:last-of-type {\n   display:none\n}\n</style>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
@@ -799,25 +799,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "_afterNavbarItem": false,
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "sound": "https://soundcloud.com/search/sets?q=jimmy%20sax",
-            "autoplay": true,
-            "fullWidth": true,
-            "bgColor": "#fff"
-          },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-28"
         }
       ]
     },
@@ -826,7 +807,7 @@
         "title": "policy",
         "order": 8,
         "meta_descr": "\"politica de cookies,cookies policy\"\n",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -1435,7 +1416,7 @@
         "title": "terms",
         "order": 9,
         "meta_descr": "\"politica privacidade,GRDP,RGPD\"\n\n",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -2043,7 +2024,7 @@
       "settings": {
         "title": "Galeria",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "<style>\nsection:last-of-type {\n   display:none\n}\n</style>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -3111,26 +3092,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "_inherit": "soundcloud1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "sound": "https://soundcloud.com/mobirise/blue-skies",
-            "autoplay": false,
-            "fullWidth": true,
-            "bgColor": "#fff"
-          },
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
-          "_name": "soundcloud2",
-          "_anchor": "soundcloud2-4f"
         },
         {
           "alias": false,
@@ -4250,7 +4211,7 @@
       "settings": {
         "title": "Empresa",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 4
@@ -4925,7 +4886,7 @@
       "settings": {
         "title": "Rdedes_sociais",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 5
@@ -5638,7 +5599,7 @@
       "settings": {
         "title": "Informações",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 6
