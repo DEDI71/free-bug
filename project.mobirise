@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "terms.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -3550,7 +3550,7 @@
       "settings": {
         "title": "Noticias",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": 2
@@ -4247,7 +4247,7 @@
       "settings": {
         "title": "Empresa",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": 4
@@ -4922,7 +4922,7 @@
       "settings": {
         "title": "Rdedes_sociais",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": 5
@@ -5635,7 +5635,7 @@
       "settings": {
         "title": "Informações",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": 6
