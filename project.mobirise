@@ -47,7 +47,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -82,7 +82,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
-        "header_custom": "<style>\nsection:last-of-type {\n   display:none\n}\n</style>",
+        "header_custom": " <style>\nsection:last-of-type {\n   display:none\n}\n</style>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2206,24 +2206,23 @@
           "_params": {}
         },
         {
-          "_inherit": "soundcloud1",
+          "_afterNavbarItem": false,
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/jimmy-sax/jimmy-sax-live-no-man-no-cry",
+            "sound": "https://soundcloud.com/search/sets?q=jimmy%20sax",
             "autoplay": true,
             "fullWidth": true,
             "bgColor": "#fff"
           },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
           "alias": "soundcloud",
           "_tags": [
             "Extension"
           ],
-          "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F203149278&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F203149278",
-          "_name": "soundcloud2",
-          "_anchor": "soundcloud2-24"
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-28"
         }
       ]
     },
