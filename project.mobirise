@@ -2017,10 +2017,10 @@
         }
       ]
     },
-    "page3.html": {
+    "gallery.html": {
       "settings": {
         "title": "Galeria",
-        "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
+        "meta_descr": "\"marcas de óculos na óptica Renato Azevedo,video de marcas óculos na óptica Renato azevedo,brands,galeria\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3504,10 +3504,10 @@
         }
       ]
     },
-    "page4.html": {
+    "noticias.html": {
       "settings": {
         "title": "Noticias",
-        "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
+        "meta_descr": "\"notícias,news\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4201,10 +4201,10 @@
         }
       ]
     },
-    "page6.html": {
+    "empresa.html": {
       "settings": {
         "title": "Empresa",
-        "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
+        "meta_descr": "\"Sobre Nós,About us,breve descrção\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4876,10 +4876,10 @@
         }
       ]
     },
-    "page7.html": {
+    "social.html": {
       "settings": {
         "title": "Rdedes_sociais",
-        "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
+        "meta_descr": "\"redes sociais,social networking\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -5589,10 +5589,10 @@
         }
       ]
     },
-    "page8.html": {
+    "inform.html": {
       "settings": {
         "title": "Informações",
-        "meta_descr": "\"Óptica Renato Azevedo, a cuidar da sua visão desde 1961,Excelência no serviço prestado\"",
+        "meta_descr": "\"informações da Empresa òptica renato azevedo,Informations\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
