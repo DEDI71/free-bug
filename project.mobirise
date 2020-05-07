@@ -51,7 +51,7 @@
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/index.html</loc>\n\t</url>\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/gallery.html</loc>\n\t</url>\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/noticias.html</loc>\n\t</url>\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/empresa.html</loc>\n\t</url>\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/social.html</loc>\n\t</url>\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/inform.html</loc>\n\t</url>\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/terms.html</loc>\n\t</url>\n\t<url>\n\t\t<loc>https://opticarenatoazevedo.pt/privacy.html</loc>\n\t</url>\n</urlset>\n",
     "sitemapSwitcher": true,
     "siteUrl": "https://opticarenatoazevedo.pt",
     "sitemapSwitcherAuto": "on",
