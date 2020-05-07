@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "inform.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -47,7 +47,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 184,
+    "uniqCompNum": 189,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -80,8 +80,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Óptica Renato Azevedo",
-        "meta_descr": "Óptica Renato Azevedo |  a cuidar da sua visão desde 1961,óculos graduados,óculos sol,lentes contacto,consultas aos seus olhos,excelência no serviço prestado,Qualidade e experiência",
+        "title": "Óptica Renato Azevedo | Sempre consigo  para ver melhor",
+        "meta_descr": "Óptica Renato Azevedo |  a cuidar da sua visão desde 1961,óculos graduados,óculos sol,lentes oftalmológicas e  contacto,consultas aos seus olhos,facilidades pagamento.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -801,8 +801,8 @@
     },
     "gallery.html": {
       "settings": {
-        "title": "Produtos e Serviços",
-        "meta_descr": "algumas das marcas de óculos que temos para si,lentes contacto,serviços para cuidar da sua visão.",
+        "title": "Produtos e Serviços que disponibilizamos na Óptica Renato Azevedo",
+        "meta_descr": "algumas sugestões  es marcas de óculos que temos para si,lentes oftalmologicas,,serviços para cuidar da sua visão.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
