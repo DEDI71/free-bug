@@ -3,12 +3,6 @@
 		<loc>https://opticarenatoazevedo.pt/index.html</loc>
 	</url>
 	<url>
-		<loc>https://opticarenatoazevedo.pt/policy.html</loc>
-	</url>
-	<url>
-		<loc>https://opticarenatoazevedo.pt/terms.html</loc>
-	</url>
-	<url>
 		<loc>https://opticarenatoazevedo.pt/gallery.html</loc>
 	</url>
 	<url>
@@ -22,5 +16,11 @@
 	</url>
 	<url>
 		<loc>https://opticarenatoazevedo.pt/inform.html</loc>
+	</url>
+	<url>
+		<loc>https://opticarenatoazevedo.pt/terms.html</loc>
+	</url>
+	<url>
+		<loc>https://opticarenatoazevedo.pt/privacy.html</loc>
 	</url>
 </urlset>
