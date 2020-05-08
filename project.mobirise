@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "empresa.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -83,7 +83,7 @@
       "settings": {
         "main": true,
         "title": "Óptica Renato Azevedo | Sempre consigo  para ver melhor",
-        "meta_descr": "Óptica Renato Azevedo |  a cuidar da sua visão desde 1961,óculos graduados,óculos sol,lentes oftalmológicas ,,consultas aos seus olhos,facilidades pagamento.",
+        "meta_descr": "Óptica Renato Azevedo |  a cuidar da sua visão desde 1961,óculos graduados,óculos sol,lentes oftalmológicas,,consultas aos seus olhos,facilidades pagamento....",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
