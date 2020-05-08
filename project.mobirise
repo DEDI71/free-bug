@@ -84,7 +84,7 @@
         "main": true,
         "title": "Óptica Renato Azevedo | Sempre consigo  para ver melhor",
         "meta_descr": "Óptica Renato Azevedo |  a cuidar da sua visão desde 1961,óculos graduados,óculos sol,lentes oftálmicas,,consultas aos seus olhos,facilidades pagamento....",
-        "header_custom": "",
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -805,7 +805,7 @@
       "settings": {
         "title": "Produtos e Serviços que disponibilizamos na Óptica Renato Azevedo",
         "meta_descr": "algumas sugestões  es marcas de óculos que temos para si,lentes oftalmologicas,,serviços para cuidar da sua visão.",
-        "header_custom": "",
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": "",
         "order": 2
@@ -2292,7 +2292,7 @@
       "settings": {
         "title": "Notícias",
         "meta_descr": "notícias gerais e sobre saúde ocular e ópticas.",
-        "header_custom": "",
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": "",
         "order": 3
@@ -2989,7 +2989,7 @@
       "settings": {
         "title": "Sobre Nós",
         "meta_descr": "sobre Nós,a empresa,quem somos e o que fazemos na actividade de òptica em S.João da Madeira.",
-        "header_custom": "",
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": "",
         "order": 4
@@ -3664,7 +3664,7 @@
       "settings": {
         "title": "Redes_Sociais",
         "meta_descr": "Redes sociais. da Óptica Renato Azevedo,youtube,facebook,instagram,twitter.",
-        "header_custom": "",
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": "",
         "order": 5
@@ -4377,7 +4377,7 @@
       "settings": {
         "title": "Informações",
         "meta_descr": "horário,contactos,direcções e mapa,tudo para obter informações sobre a Óptica Renato Azevedo em S.João da Madeira..",
-        "header_custom": "",
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": "",
         "order": 6
@@ -5341,7 +5341,8 @@
         "title": "Política Privacidade",
         "order": 8,
         "meta_descr": "politica privacidade,GPRD.\n\n",
-        "header_custom": ""
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
+        "footer_custom": ""
       },
       "components": [
         {
@@ -5950,7 +5951,7 @@
         "title": "Política Cookies",
         "order": 7,
         "meta_descr": "Politica de cookies da Óptica Renato Azevedo.\n",
-        "header_custom": ""
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>"
       },
       "components": [
         {
