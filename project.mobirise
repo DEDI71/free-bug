@@ -79,7 +79,7 @@
     },
     "lazyLoad": true,
     "cssOptimize": true,
-    "lazyType": "placeholder",
+    "lazyType": "nothing",
     "pwa-switcher": false
   },
   "pages": {
