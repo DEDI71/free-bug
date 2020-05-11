@@ -1086,6 +1086,18 @@ a {
 .cid-rYf1F1XUKY H3 {
   color: #000000;
 }
+#custom-html-5n {
+  /* Type valid CSS here */
+}
+#custom-html-5n div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-5n p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-rYfpPeaK0q {
   padding-top: 105px;
   padding-bottom: 30px;

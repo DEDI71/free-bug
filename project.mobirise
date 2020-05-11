@@ -49,7 +49,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 200,
+    "uniqCompNum": 208,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -88,7 +88,7 @@
         "main": true,
         "title": "Óptica Renato Azevedo | Sempre consigo  para ver melhor",
         "meta_descr": "Óptica Renato Azevedo |  a cuidar da sua visão desde 1961,óculos graduados,óculos sol,lentes oftálmicas,,consultas aos seus olhos,facilidades pagamento....",
-        "header_custom": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/8d6e6c73c3bbbfbe5bf0b65ac/656468d69f050543638572938.js\");</script>\n\n<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
+        "header_custom": "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us18.list-manage.com\",\"uuid\":\"8d6e6c73c3bbbfbe5bf0b65ac\",\"lid\":\"98fe76422f\",\"uniqueMethods\":true}) })</script>\n\n<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -660,6 +660,23 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n[JS_CODE_0][JS_CODE_1]",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script>",
+            "<script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us18.list-manage.com\",\"uuid\":\"8d6e6c73c3bbbfbe5bf0b65ac\",\"lid\":\"98fe76422f\",\"uniqueMethods\":true}) })</script>"
+          ]
         },
         {
           "alias": false,
