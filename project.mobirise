@@ -74,8 +74,8 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "Este site utiliza cookies para lhe proporcionar uma melhor experiência de utilização, Ler mais <a href='privacy.html'>política cookies.",
-      "textButton": " <a href='index.html'> Concordar"
+      "text": "Este site utiliza cookies para lhe proporcionar uma melhor experiência de utilização, Ler mais <a href='privacy.html'>política cookies",
+      "textButton": " Concordar"
     },
     "lazyLoad": true,
     "cssOptimize": true,
