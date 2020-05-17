@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -958,7 +958,7 @@
       "settings": {
         "title": "Produtos e Serviços que disponibilizamos na Óptica Renato Azevedo",
         "meta_descr": "algumas sugestões  es marcas de óculos que temos para si,lentes oftalmologicas,,serviços para cuidar da sua visão.",
-        "header_custom": "<link rel=\"dns-prefetch\" href=\"http://opticarenatoazevedo.pt/gallery.html\">\n<link rel=\"preconnect\" href=\"https://opticarenatoazevedo.p/gallery.htmlt\">\n<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
+        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": "",
         "order": 2
