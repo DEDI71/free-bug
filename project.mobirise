@@ -82,10 +82,7 @@
       "textButton": "Concordo"
     },
     "PWA": {
-      "enabled": true,
-      "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/vaificartudobem-capa-512x512.png",
-      "themeColor": "#daa520"
+      "enabled": false
     }
   },
   "pages": {
