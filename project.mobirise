@@ -68,7 +68,7 @@
     "lazyLoad": true,
     "cssOptimize": true,
     "lazyType": "nothing",
-    "pwa-switcher": false,
+    "pwa-switcher": true,
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -80,6 +80,12 @@
       "opacityOverlay": "80",
       "text": "Este site utiliza cookies para ter melhor experiência. Ler mais <a href='privacy.html'>politica cookies</a>.",
       "textButton": "Concordo"
+    },
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/vaificartudobem-capa-512x512.png",
+      "themeColor": "#daa520"
     }
   },
   "pages": {
@@ -794,23 +800,6 @@
           "_params": {}
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n[JS_CODE_0][JS_CODE_1]",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-5n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script>",
-            "<script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us18.list-manage.com\",\"uuid\":\"8d6e6c73c3bbbfbe5bf0b65ac\",\"lid\":\"98fe76422f\",\"uniqueMethods\":true}) })</script>"
-          ]
-        },
-        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -951,6 +940,23 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n[JS_CODE_0][JS_CODE_1]",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script>",
+            "<script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us18.list-manage.com\",\"uuid\":\"8d6e6c73c3bbbfbe5bf0b65ac\",\"lid\":\"98fe76422f\",\"uniqueMethods\":true}) })</script>"
+          ]
         }
       ]
     },
