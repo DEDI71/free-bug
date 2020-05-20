@@ -49,7 +49,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 257,
+    "uniqCompNum": 264,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -58,7 +58,7 @@
     "siteUrl": "https://opticarenatoazevedo.pt",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/captura-de-ecra-2020-03-06-as-16.40.15-128x67.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#b8660b",
@@ -91,7 +91,7 @@
         "main": true,
         "title": "Óptica Renato Azevedo | Sempre consigo  para ver melhor",
         "meta_descr": "Óptica Renato Azevedo |  a cuidar da sua visão desde 1961,óculos graduados,óculos sol,lentes oftálmicas,,exames gratuitos à sua visão,facilidades pagamento....",
-        "header_custom": "<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
+        "header_custom": "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us18.list-manage.com\",\"uuid\":\"8d6e6c73c3bbbfbe5bf0b65ac\",\"lid\":\"98fe76422f\",\"uniqueMethods\":true}) })</script>\n\n<html>\n   <head>\n    <META NAME=\"LANGUAGE\" CONTENT=\"PT\" >\n   </head>\n   <body>\n   </body>\n<html>",
         "footer_custom": "",
         "html_before": ""
       },
