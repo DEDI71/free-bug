@@ -56,7 +56,7 @@
     "robotsText": "User-agent: *\nDisallow: \n",
     "sitemapSwitcher": true,
     "siteUrl": "https://opticarenatoazevedo.pt",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "favicon": "@PROJECT_PATH@/assets/images/captura-de-ecra-2020-03-06-as-16.40.15-128x67.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VCQV8YEEH0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VCQV8YEEH0');\n</script>",
     "gdpr": {
