@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "inform.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -50,7 +50,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 264,
-    "versionPublish": "4.12.1",
+    "versionPublish": "5.0.16",
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: \n",
