@@ -111,6 +111,21 @@
         "css": "'Rancho', handwriting",
         "name": "Rancho",
         "url": "https://fonts.googleapis.com/css?family=Rancho:400"
+      },
+      {
+        "css": "'Krona One', sans-serif",
+        "name": "Krona One",
+        "url": "https://fonts.googleapis.com/css?family=Krona+One:400"
+      },
+      {
+        "css": "'Sniglet', display",
+        "name": "Sniglet",
+        "url": "https://fonts.googleapis.com/css?family=Sniglet:400,800"
+      },
+      {
+        "css": "'Lexend Zetta', sans-serif",
+        "name": "Lexend Zetta",
+        "url": "https://fonts.googleapis.com/css?family=Lexend+Zetta:400"
       }
     ],
     "imageResize": true,
