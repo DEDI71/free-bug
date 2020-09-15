@@ -1,7 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Rancho:400&display=swap);
-
-
 
 
 
@@ -9,14 +6,14 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'aqua';
   font-size: 10rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 16rem;
 }
 .display-2 {
-  font-family: 'Rancho', handwriting;
+  font-family: 'aqua';
   font-size: 5rem;
   line-height: 1.3;
 }
