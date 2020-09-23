@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -2001,7 +2001,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -2021,7 +2021,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -2047,6 +2047,26 @@
                 "showTitle": false,
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/X5Wwu-SuxMQ",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Imagem do Slider",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/capa-facebook-851x310.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=PlpZuRKyjVg",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
