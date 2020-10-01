@@ -2645,7 +2645,7 @@ a {
 .cid-rYeLOrGqDU {
   padding-top: 180px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-rYeLOrGqDU .mbr-text {
   color: #767676;
@@ -2704,7 +2704,14 @@ a {
 }
 .cid-rYeLOrGqDU .card-title,
 .cid-rYeLOrGqDU .card-img {
-  color: #000000;
+  color: #ffffff;
+}
+.cid-rYeLOrGqDU H1 {
+  color: #ffffff;
+}
+.cid-rYeLOrGqDU .mbr-section-subtitle,
+.cid-rYeLOrGqDU .title-align {
+  color: #ffffff;
 }
 .cid-rYeLOtFG9l {
   padding-top: 15px;
