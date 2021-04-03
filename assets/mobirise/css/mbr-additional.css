@@ -1011,49 +1011,6 @@ a {
   color: #e4d295;
   text-align: center;
 }
-.cid-skLkkj8585 {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-color: #000000;
-  background: linear-gradient(45deg, #000000, #daa520);
-}
-.cid-skLkkj8585 .container {
-  max-width: 1400px;
-}
-.cid-skLkkj8585 .row {
-  padding: 0 1rem;
-}
-@media (min-width: 992px) {
-  .cid-skLkkj8585 .media-content {
-    margin: auto;
-    transform: translateX(70%);
-    z-index: 2;
-    position: relative;
-  }
-  .cid-skLkkj8585 img {
-    min-height: 700px;
-  }
-}
-.cid-skLkkj8585 img {
-  height: 100%;
-  object-fit: cover;
-}
-.cid-skLkkj8585 .mbr-figure {
-  height: 100%;
-}
-@media (max-width: 992px) {
-  .cid-skLkkj8585 .media-content {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-skLkkj8585 .row {
-    padding: 0rem;
-  }
-}
-.cid-skLkkj8585 H2 {
-  text-align: left;
-}
 .cid-rYf6dl03vo {
   padding-top: 165px;
   padding-bottom: 0px;
@@ -1766,6 +1723,115 @@ a {
 }
 .cid-rZ4JGzxJFC .mbr-section-subtitle,
 .cid-rZ4JGzxJFC .title-align {
+  color: #000000;
+}
+.cid-stwBVJEtro {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #000000;
+}
+.cid-stwBVJEtro .card-box {
+  z-index: 10;
+  position: relative;
+}
+.cid-stwBVJEtro .container-fluid {
+  padding: 0;
+}
+.cid-stwBVJEtro h5 {
+  margin: 0;
+}
+.cid-stwBVJEtro h3 {
+  width: fit-content;
+  display: inline-block;
+  position: relative;
+}
+.cid-stwBVJEtro h3:before {
+  position: absolute;
+  content: '';
+  left: 50%;
+  top: -120px;
+  bottom: 0;
+  width: 1px;
+  height: 100px;
+  background: currentColor;
+}
+.cid-stwBVJEtro .card {
+  margin: auto;
+  min-height: 350px;
+  perspective: 800px;
+  cursor: pointer;
+}
+.cid-stwBVJEtro .card:hover {
+  z-index: 99;
+}
+.cid-stwBVJEtro .card-wrapper {
+  background-position: center;
+  padding: 1rem 1rem;
+  background-size: cover;
+  transition: all 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  transform-origin: top;
+  position: relative;
+  overflow: hidden;
+}
+.cid-stwBVJEtro .card-wrapper:hover {
+  transform: rotateX(20deg);
+}
+.cid-stwBVJEtro .card-wrapper:hover:before {
+  transform: translateY(-10%);
+  opacity: 1;
+}
+.cid-stwBVJEtro .card-wrapper:before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(190deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 90%);
+  clip-path: polygon(0 0, 100% 0, 100% 25%, 0 75%);
+  opacity: 0;
+  position: absolute;
+  transition: all 0.3s;
+  transform: translateY(-100%);
+}
+.cid-stwBVJEtro .card1 {
+  background-image: url("../../../assets/images/woodys-optical-frames-chances04-2000x1335.jpg");
+  z-index: 4;
+  transform: rotateY(15deg);
+}
+.cid-stwBVJEtro .card2 {
+  background-image: url("../../../assets/images/x1080-1920x1080.jpg");
+  z-index: 3;
+}
+.cid-stwBVJEtro .card3 {
+  background-image: url("../../../assets/images/modo-eyewear-16x9-1000x563.jpg");
+  z-index: 2;
+  transform: rotateY(-15deg);
+}
+.cid-stwBVJEtro h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-stwBVJEtro .btn {
+  margin: 0!important;
+  padding: 1rem 2rem;
+}
+@media (max-width: 767px) {
+  .cid-stwBVJEtro .card-box {
+    text-align: center;
+  }
+}
+.cid-stwBVJEtro .mbr-text {
+  color: #cccccc;
+}
+.cid-stwBVJEtro .card-date {
+  color: #cccccc;
+}
+.cid-stwBVJEtro H1 {
+  color: #000000;
+}
+.cid-stwBVJEtro .mbr-section-subtitle,
+.cid-stwBVJEtro .title-align {
   color: #000000;
 }
 .cid-rYeLsVcvtC {
