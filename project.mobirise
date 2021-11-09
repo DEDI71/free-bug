@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gallery.html",
+    "currentPage": "inform.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -5423,13 +5423,15 @@
             }
           },
           "_name": "map1",
-          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJKycG4_iBIw0Riy2wC3s22Kc\" value=\"Óptica RENATO AZEVEDO\nRua Oliveira Junior 309\n3700-207  S. João da Madeira\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"<iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12062.582024887211!2d-8.4947469!3d40.9015904!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7d8367b0bb02d8b!2sOptica%20Renato%20Azevedo!5e0!3m2!1spt-PT!2spt!4v1636481487895!5m2!1spt-PT!2spt&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;></iframe>\" value=\"<iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12062.582024887211!2d-8.4947469!3d40.9015904!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7d8367b0bb02d8b!2sOptica%20Renato%20Azevedo!5e0!3m2!1spt-PT!2spt!4v1636481487895!5m2!1spt-PT!2spt&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;></iframe>\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "rYeNnO4euL",
           "_anchor": "map1-3x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
