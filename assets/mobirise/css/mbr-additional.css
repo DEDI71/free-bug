@@ -5037,6 +5037,10 @@ a {
 .cid-rYUyW7YgYn .card-img {
   color: #000000;
 }
+.cid-rYUyW7YgYn .card-title,
+.cid-rYUyW7YgYn .card-img DIV {
+  text-align: center;
+}
 .cid-rYfpPeaK0q {
   padding-top: 105px;
   padding-bottom: 60px;
