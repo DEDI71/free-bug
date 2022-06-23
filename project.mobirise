@@ -168,9 +168,12 @@
       "textButton": "Concordo"
     },
     "PWA": {
-      "enabled": false
+      "enabled": true,
+      "name": "ORA",
+      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "themeColor": "#daa520"
     },
-    "mbrsiteDomain": "ev3ca5m71o",
+    "mbrsiteDomain": "xt0gsh4tft",
     "publishChangesOnly": true
   },
   "pages": {
